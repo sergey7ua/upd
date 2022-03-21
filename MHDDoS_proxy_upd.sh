@@ -25,7 +25,7 @@
 
 #Install latest version of mhddos_proxy and MHDDoS
 cd ~
-rm -rf mhddos_proxy
+sudo rm -rf mhddos_proxy
 git clone https://github.com/porthole-ascend-cinnamon/mhddos_proxy.git
 cd mhddos_proxy
 git clone https://github.com/MHProDev/MHDDoS.git
