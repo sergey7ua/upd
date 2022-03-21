@@ -10,4 +10,4 @@ sudo rm -rf mhddos_proxy
 git clone https://github.com/porthole-ascend-cinnamon/mhddos_proxy.git
 cd mhddos_proxy
 git clone https://github.com/MHProDev/MHDDoS.git
-python3 -m pip install -r MHDDoS/requirements.txt
+sudo python3 -m pip install -r MHDDoS/requirements.txt
