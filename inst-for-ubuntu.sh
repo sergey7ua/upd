@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 sudo apt update #&& sudo apt upgrade -y
 sudo curl -s https://raw.githubusercontent.com/SlavaUkraineSince1991/DDoS-for-all/main/scripts/docker_install.sh #| bash
 sudo apt install mc -y 
