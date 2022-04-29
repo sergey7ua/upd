@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt update #&& sudo apt upgrade -y
-sudo curl -s https://raw.githubusercontent.com/SlavaUkraineSince1991/DDoS-for-all/main/scripts/docker_install.sh | bash
+sudo curl -s https://raw.githubusercontent.com/SlavaUkraineSince1991/DDoS-for-all/main/scripts/docker_install.sh #| bash
 sudo apt install mc -y 
 sudo apt install putty -y 
 
@@ -12,7 +12,7 @@ sudo apt-get install --no-install-recommends ubuntu-desktop
 #sudo tasksel install ubuntu-mate-desktop
 ##"OR"
 #sudo tasksel install ubuntu-mate-core
-## -основной (думаю минималка)
+## -Г®Г±Г­Г®ГўГ­Г®Г© (Г¤ГіГ¬Г Гѕ Г¬ГЁГ­ГЁГ¬Г Г«ГЄГ )
 
 sudo apt install xrdp -y 
 #sudo systemctl status xrdp 
